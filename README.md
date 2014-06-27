@@ -1,5 +1,5 @@
-# arbitrary-bootstrap-grids
+# Arbitrary Bbootstrap grids
 
-A simple empty boilerplate for a fresh start
+Made by hacking mixins *make-xx-column[-offset|push|pull]* to accept total number of columns as the last parameter.
 
-Auto commited via [Mixture](http://mixture.io)
+It uses global column count as default value, so the framwork doesn't break.
