@@ -6170,7 +6170,7 @@ button.close {
   padding-left: 15px;
   padding-right: 15px;
 }
-@media (min-width: 992px) {
+@media (min-width: 768px) {
   .x3 .col-1 {
     float: left;
     width: 33.33333333%;
@@ -6182,7 +6182,7 @@ button.close {
   padding-left: 15px;
   padding-right: 15px;
 }
-@media (min-width: 992px) {
+@media (min-width: 768px) {
   .x3 .col-2 {
     float: left;
     width: 66.66666667%;
@@ -6194,7 +6194,7 @@ button.close {
   padding-left: 15px;
   padding-right: 15px;
 }
-@media (min-width: 992px) {
+@media (min-width: 768px) {
   .x3 .col-3 {
     float: left;
     width: 100%;
@@ -6209,7 +6209,7 @@ button.close {
   padding-left: 15px;
   padding-right: 15px;
 }
-@media (min-width: 992px) {
+@media (min-width: 768px) {
   .x8 .col-3 {
     float: left;
     width: 37.5%;
@@ -6221,7 +6221,7 @@ button.close {
   padding-left: 15px;
   padding-right: 15px;
 }
-@media (min-width: 992px) {
+@media (min-width: 768px) {
   .x8 .col-5 {
     float: left;
     width: 62.5%;
@@ -6236,7 +6236,7 @@ button.close {
   padding-left: 15px;
   padding-right: 15px;
 }
-@media (min-width: 992px) {
+@media (min-width: 768px) {
   .x5 .col-1 {
     float: left;
     width: 20%;
@@ -6248,7 +6248,7 @@ button.close {
   padding-left: 15px;
   padding-right: 15px;
 }
-@media (min-width: 992px) {
+@media (min-width: 768px) {
   .x5 .col-2 {
     float: left;
     width: 40%;
@@ -6263,7 +6263,7 @@ button.close {
   padding-left: 15px;
   padding-right: 15px;
 }
-@media (min-width: 992px) {
+@media (min-width: 768px) {
   .crazy .col-a {
     float: left;
     width: 33.33333333%;
@@ -6278,7 +6278,7 @@ button.close {
   padding-left: 15px;
   padding-right: 15px;
 }
-@media (min-width: 992px) {
+@media (min-width: 768px) {
   .crazy .col-b {
     float: left;
     width: 25%;
@@ -6293,7 +6293,7 @@ button.close {
   padding-left: 15px;
   padding-right: 15px;
 }
-@media (min-width: 992px) {
+@media (min-width: 768px) {
   .crazy .col-c {
     float: left;
     width: 20%;
@@ -6308,7 +6308,7 @@ button.close {
   padding-left: 15px;
   padding-right: 15px;
 }
-@media (min-width: 992px) {
+@media (min-width: 768px) {
   .crazy .col-d {
     float: left;
     width: 16.66666667%;
@@ -6323,7 +6323,7 @@ button.close {
   padding-left: 15px;
   padding-right: 15px;
 }
-@media (min-width: 992px) {
+@media (min-width: 768px) {
   .crazy .col-e {
     float: left;
     width: 5%;
